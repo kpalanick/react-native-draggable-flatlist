@@ -1,7 +1,7 @@
 This is a clone of the upstream repo with some PRs merged:
-[#35](https://github.com/computerjazz/react-native-draggable-flatlist/pull/35)
-[#44](https://github.com/computerjazz/react-native-draggable-flatlist/pull/44)
-[#43](https://github.com/computerjazz/react-native-draggable-flatlist/pull/43)
+- [#35](https://github.com/computerjazz/react-native-draggable-flatlist/pull/35)
+- [#44](https://github.com/computerjazz/react-native-draggable-flatlist/pull/44)
+- [#43](https://github.com/computerjazz/react-native-draggable-flatlist/pull/43)
 
 # React Native Draggable FlatList
 
